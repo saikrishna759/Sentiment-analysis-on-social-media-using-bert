@@ -3,10 +3,10 @@ import pandas as pd
 import time
 from main_preprocessor1 import *
 
-consumer_key= 'MctWeB1kkWFZ3ZTidijQpIqpK'
-consumer_secret= 'K5FCcROjU2r6jsn7pgiEvGMEqu5BotXwe4KV0aSdeWTAICVKme'
-access_token= '1048952278961418240-0xijpR9vu3M84w7nBMGFds7FW2MmiJ'
-access_token_secret= 'm0ha9dhwYbpHdHhT88ASySaNoAOhLbicKWqDBmTRWxZzp'
+consumer_key= 'your own keys'
+consumer_secret= 'your own keys'
+access_token= 'your own keys'
+access_token_secret= 'your own keys'
 
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
